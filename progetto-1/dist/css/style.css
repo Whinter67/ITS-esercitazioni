@@ -1,0 +1,21 @@
+html,
+body {
+  font-size: 20pt;
+  padding-bottom: 200px;
+}
+
+table {
+  border-collapse: collapse;
+}
+table th {
+  border: 3px solid #0385fa;
+}
+table td {
+  border: 3px solid #0385fa;
+}
+
+p {
+  font-size: 18pt;
+}
+
+/*# sourceMappingURL=style.css.map */
